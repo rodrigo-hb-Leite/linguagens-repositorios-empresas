@@ -1,0 +1,31 @@
+,repository_name,language
+0,.github,
+1,ads-advanced-tools-docs,Jupyter Notebook
+2,ads-pao-amznjs-gtm-server-side-template,Smarty
+3,ads-pao-amznjs-gtm-template,Smarty
+4,alexa-coho,JavaScript
+5,alexa-skills-kit-js,
+6,amazon-ads-advertiser-audience-normalization-sdk-py,Python
+7,amazon-advertising-api-php-sdk,PHP
+8,amazon-codeguru-profiler-for-spark,Java
+9,amazon-frustration-free-setup-certification-tool,Python
+10,amazon-hub-counter-api-docs,CSS
+11,amazon-hub-counter-api-samples,Java
+12,amazon-hub-counter-sdk-java,Java
+13,amazon-hub-support,PowerShell
+14,amazon-instant-access-sdk-java,Java
+15,amazon-instant-access-sdk-net,C#
+16,amazon-instant-access-sdk-php,PHP
+17,amazon-instant-access-sdk-ruby,Ruby
+18,amazon-launcher-integration-cordova-plugin,JavaScript
+19,amazon-marketing-stream-examples,Python
+20,amazon-mcf-plugin-for-magento-1,PHP
+21,amazon-multi-token-completion,Python
+22,amazon-nearest-neighbor-through-ecc,Jupyter Notebook
+23,amazon-pay-api-sdk-dotnet,C#
+24,amazon-pay-api-sdk-java,Java
+25,amazon-pay-api-sdk-nodejs,JavaScript
+26,amazon-pay-api-sdk-php,PHP
+27,amazon-pay-api-sdk-ruby,Ruby
+28,amazon-pay-code-samples,PHP
+29,amazon-pay-sdk-csharp,C#
